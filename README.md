@@ -1,8 +1,3 @@
-# TIC-TAC-TOE
-Here's a simple and effective `README.md` for your Tic-Tac-Toe game project using Python and Tkinter:
-
----
-
 # Tic-Tac-Toe with AI (Minimax Algorithm)
 
 This is a Python-based Tic-Tac-Toe game where the player competes against an AI opponent. The AI uses the Minimax algorithm to make optimal decisions, ensuring that it always plays its best possible move. The game is built with the Tkinter library for the graphical user interface (GUI).
